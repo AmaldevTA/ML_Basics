@@ -23,10 +23,10 @@ Link to the solution set: [Logistic regression](https://github.com/AmaldevTA/ML_
 Each solutions can be found in the following notebooks:
 
 - **Solution 1**: [basic](https://github.com/AmaldevTA/ML_Basics/blob/master/002_Logistic_Regression/Logistic_regression.ipynb)
-- **Solution 1**: [regularized](https://github.com/AmaldevTA/ML_Basics/blob/master/002_Logistic_Regression/Logistic_regression_regularized.ipynb)
-- **Solution 1**: [Multi class classification](https://github.com/AmaldevTA/ML_Basics/blob/master/002_Logistic_Regression/Multi_class_Classification.ipynb)
-- **Solution 1**: [Multi class classification scikit-learn](https://github.com/AmaldevTA/ML_Basics/blob/master/002_Logistic_Regression/Multi_class_Classification_Scikit.ipynb)
-- **Solution 1**: [scikit-learn](https://github.com/AmaldevTA/ML_Basics/blob/master/002_Logistic_Regression/Logistic_Regression_Scikit.ipynb)
+- **Solution 2**: [regularized](https://github.com/AmaldevTA/ML_Basics/blob/master/002_Logistic_Regression/Logistic_regression_regularized.ipynb)
+- **Solution 3**: [Multi class classification](https://github.com/AmaldevTA/ML_Basics/blob/master/002_Logistic_Regression/Multi_class_Classification.ipynb)
+- **Solution 4**: [Multi class classification scikit-learn](https://github.com/AmaldevTA/ML_Basics/blob/master/002_Logistic_Regression/Multi_class_Classification_Scikit.ipynb)
+- **Solution 5**: [scikit-learn](https://github.com/AmaldevTA/ML_Basics/blob/master/002_Logistic_Regression/Logistic_Regression_Scikit.ipynb)
 
 ## Neural Networks
 
@@ -35,7 +35,7 @@ Link to the solution set: [Neural networks](https://github.com/AmaldevTA/ML_Basi
 Each solutions can be found in the following notebooks:
 
 - **Solution 1**: [Neural network](https://github.com/AmaldevTA/ML_Basics/blob/master/003_Neural_Networks/Neural_network.ipynb)
-- **Solution 1**: [scikit-learn](https://github.com/AmaldevTA/ML_Basics/blob/master/003_Neural_Networks/Neural_network_sklearn.ipynb)
+- **Solution 2**: [scikit-learn](https://github.com/AmaldevTA/ML_Basics/blob/master/003_Neural_Networks/Neural_network_sklearn.ipynb)
 
 ## SVM
 
@@ -44,7 +44,7 @@ Link to the solution set: [svm](https://github.com/AmaldevTA/ML_Basics/tree/mast
 Each solutions can be found in the following notebooks:
 
 - **Solution 1**: [scikit-learn](https://github.com/AmaldevTA/ML_Basics/blob/master/004_svm/SVM_Scikit.ipynb)
-- **Solution 1**: [scikit-learn multi class](https://github.com/AmaldevTA/ML_Basics/blob/master/004_svm/SVM_Multi_class_Scikit.ipynb)
+- **Solution 2**: [scikit-learn multi class](https://github.com/AmaldevTA/ML_Basics/blob/master/004_svm/SVM_Multi_class_Scikit.ipynb)
 
 ## KMeans
 
@@ -77,4 +77,4 @@ Link to the solution set: [data preprocessing](https://github.com/AmaldevTA/ML_B
 Each solutions can be found in the following notebooks:
 
 - **Solution 1**: [sample 1](https://github.com/AmaldevTA/ML_Basics/blob/master/008_data_preprocessing/preprocessing.ipynb)
-- **Solution 1**: [sample 2](https://github.com/AmaldevTA/ML_Basics/blob/master/008_data_preprocessing/preprocessing_2.ipynb)
+- **Solution 2**: [sample 2](https://github.com/AmaldevTA/ML_Basics/blob/master/008_data_preprocessing/preprocessing_2.ipynb)
